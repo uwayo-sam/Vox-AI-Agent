@@ -1,6 +1,6 @@
 
 
-![vox](file:///E:/PROJECTS/vox-ai/public/vox.PNG "vox ai")
+![vox](./public/vox.PNG "vox ai")
 
 
 
